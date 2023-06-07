@@ -1,0 +1,33 @@
+UniProtKB:P35968	Vascular endothelial growth factor receptor 2		GO:0038033	"{""relationship"": {""relation"": [{""id"": ""RO:0002565"", ""label"": ""results in movement of""}], ""id"": ""CL:0002543"", ""label"": ""vein endothelial cell""}}"	BHF-UCL	NCBITaxon:9606	IDA		PANTHER:PTHR24416	protein		PMID:21885851	20151211
+UniProtKB:P35968	Vascular endothelial growth factor receptor 2		GO:0048010		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR24416	protein		PMID:10102632	20110920
+UniProtKB:P15498	Proto-oncogene vav		GO:0048010		Reactome	NCBITaxon:9606	TAS		PANTHER:PTHR45818	protein		Reactome:R-HSA-194138	20220826
+UniProtKB:P35916	Vascular endothelial growth factor receptor 3		GO:0048010		MGI	NCBITaxon:9606	IDA		PANTHER:PTHR24416	protein		PMID:9012504	20070807
+UniProtKB:P52735	Guanine nucleotide exchange factor VAV2		GO:0048010		Reactome	NCBITaxon:9606	TAS		PANTHER:PTHR45818	protein		Reactome:R-HSA-194138	20220826
+UniProtKB:P15692	Vascular endothelial growth factor A		GO:0048010		GO_Central	NCBITaxon:9606	IBA	PANTHER:PTN000246442|RGD:619991|UniProtKB:P49767|RGD:620695|MGI:MGI:108037|UniProtKB:P15692|ZFIN:ZDB-GENE-990415-273|ZFIN:ZDB-GENE-040303-4|MGI:MGI:109124	PANTHER:PTHR12025	protein		PMID:21873635	20221007
+UniProtKB:P49763	Placenta growth factor		GO:0048010		GO_Central	NCBITaxon:9606	IBA	PANTHER:PTN000246442|RGD:619991|UniProtKB:P49767|RGD:620695|MGI:MGI:108037|UniProtKB:P15692|ZFIN:ZDB-GENE-990415-273|ZFIN:ZDB-GENE-040303-4|MGI:MGI:109124	PANTHER:PTHR12025	protein		PMID:21873635	20221007
+UniProtKB:P49137	MAP kinase-activated protein kinase 2		GO:0048010		GO_Central	NCBITaxon:9606	IBA	PANTHER:PTN002805697|UniProtKB:P49137	PANTHER:PTHR24349	protein		PMID:21873635	20200401
+UniProtKB:P30530	Tyrosine-protein kinase receptor UFO		GO:0048010		Reactome	NCBITaxon:9606	TAS		PANTHER:PTHR24416	protein		Reactome:R-HSA-194138	20220825
+UniProtKB:O75340	Programmed cell death protein 6		GO:0036324		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR46212	protein		PMID:21893193	20130624
+UniProtKB:Q14289	Protein-tyrosine kinase 2-beta		GO:0048010		BHF-UCL	NCBITaxon:9606	IMP		PANTHER:PTHR24418	protein		PMID:21245381	20110825
+UniProtKB:Q12948	Forkhead box protein C1		GO:0048010		Ensembl	NCBITaxon:9606	IEA	UniProtKB:Q61572|ensembl:ENSMUSP00000052196	PANTHER:PTHR11829	protein		GO_REF:0000107	20221109
+UniProtKB:P56945	Breast cancer anti-estrogen resistance protein 1		GO:0048010		BHF-UCL	NCBITaxon:9606	IMP		PANTHER:PTHR10654	protein		PMID:21245381	20110825
+UniProtKB:O14786	Neuropilin-1		GO:0048010		GO_Central	NCBITaxon:9606	IBA	PANTHER:PTN002929610|ZFIN:ZDB-GENE-030519-2|MGI:MGI:106206|UniProtKB:O14786	PANTHER:PTHR46806	protein		PMID:21873635	20220325
+UniProtKB:P06241	Tyrosine-protein kinase Fyn		GO:0048010		Reactome	NCBITaxon:9606	TAS		PANTHER:PTHR24418	protein		Reactome:R-HSA-194138	20220825
+UniProtKB:O76093	Fibroblast growth factor 18		GO:0048010		Ensembl	NCBITaxon:9606	IEA	UniProtKB:O89101|ensembl:ENSMUSP00000020507	PANTHER:PTHR11486	protein		GO_REF:0000107	20221109
+UniProtKB:P31371	Fibroblast growth factor 9		GO:0048010		Ensembl	NCBITaxon:9606	IEA	UniProtKB:P54130|ensembl:ENSMUSP00000022545	PANTHER:PTHR11486	protein		GO_REF:0000107	20221109
+UniProtKB:Q99958	Forkhead box protein C2		GO:0048010		Ensembl	NCBITaxon:9606	IEA	UniProtKB:Q61850|ensembl:ENSMUSP00000055290	PANTHER:PTHR11829	protein		GO_REF:0000107	20221109
+UniProtKB:Q15139	Serine/threonine-protein kinase D1		GO:0048010	"{""relationship"": {""relation"": [{""id"": ""BFO:0000066"", ""label"": ""occurs in""}], ""id"": ""CL:0002618"", ""label"": ""endothelial cell of umbilical vein""}}"	BHF-UCL	NCBITaxon:9606	IMP		PANTHER:PTHR22968	protein		PMID:18059339	20120228
+UniProtKB:P04792	Heat shock protein beta-1		GO:0038033	"{""relationship"": {""relation"": [{""id"": ""BFO:0000066"", ""label"": ""occurs in""}], ""id"": ""CL:0002618"", ""label"": ""endothelial cell of umbilical vein""}}"	BHF-UCL	NCBITaxon:9606	IMP		PANTHER:PTHR45640	protein		PMID:18440775	20121128
+UniProtKB:Q8IWU6	Extracellular sulfatase Sulf-1		GO:0048010		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR43108	protein		PMID:16778174	20111206
+UniProtKB:Q05397	Focal adhesion kinase 1		GO:0048010		Reactome	NCBITaxon:9606	TAS		PANTHER:PTHR24418	protein		Reactome:R-HSA-194138	20220825
+UniProtKB:Q5VWQ8	Disabled homolog 2-interacting protein		GO:0036324		UniProt	NCBITaxon:9606	ISS	UniProtKB:Q3UHC7	PANTHER:PTHR10194	protein		GO_REF:0000024	20130318
+UniProtKB:Q16539	Mitogen-activated protein kinase 14		GO:0048010	"{""relationship"": {""relation"": [{""id"": ""BFO:0000066"", ""label"": ""occurs in""}], ""id"": ""CL:0002618"", ""label"": ""endothelial cell of umbilical vein""}}"	BHF-UCL	NCBITaxon:9606	IMP		PANTHER:PTHR24055	protein		PMID:18440775	20121128
+UniProtKB:O43915	Vascular endothelial growth factor D		GO:0048010		GO_Central	NCBITaxon:9606	IBA	PANTHER:PTN000246442|RGD:619991|UniProtKB:P49767|RGD:620695|MGI:MGI:108037|UniProtKB:P15692|ZFIN:ZDB-GENE-990415-273|ZFIN:ZDB-GENE-040303-4|MGI:MGI:109124	PANTHER:PTHR12025	protein		PMID:21873635	20221007
+UniProtKB:Q16644	MAP kinase-activated protein kinase 3		GO:0048010		Reactome	NCBITaxon:9606	TAS		PANTHER:PTHR24349	protein		Reactome:R-HSA-194138	20220826
+UniProtKB:P17948	Vascular endothelial growth factor receptor 1		GO:0048010		UniProt	NCBITaxon:9606	IDA		PANTHER:PTHR24416	protein		PMID:9299537	20110916
+UniProtKB:P49767	Vascular endothelial growth factor C		GO:0048010		GO_Central	NCBITaxon:9606	IBA	PANTHER:PTN000246442|RGD:619991|UniProtKB:P49767|RGD:620695|MGI:MGI:108037|UniProtKB:P15692|ZFIN:ZDB-GENE-990415-273|ZFIN:ZDB-GENE-040303-4|MGI:MGI:109124	PANTHER:PTHR12025	protein		PMID:21873635	20221007
+UniProtKB:P49765	Vascular endothelial growth factor B		GO:0048010		GO_Central	NCBITaxon:9606	IBA	PANTHER:PTN000246442|RGD:619991|UniProtKB:P49767|RGD:620695|MGI:MGI:108037|UniProtKB:P15692|ZFIN:ZDB-GENE-990415-273|ZFIN:ZDB-GENE-040303-4|MGI:MGI:109124	PANTHER:PTHR12025	protein		PMID:21873635	20221007
+UniProtKB:Q13177	Serine/threonine-protein kinase PAK 2		GO:0048010		Reactome	NCBITaxon:9606	TAS		PANTHER:PTHR48015	protein		Reactome:R-HSA-194138	20220825
+UniProtKB:P12931	Proto-oncogene tyrosine-protein kinase Src		GO:0048010		Reactome	NCBITaxon:9606	TAS		PANTHER:PTHR24418	protein		Reactome:R-HSA-194138	20220825
+UniProtKB:Q86T13	C-type lectin domain family 14 member A		GO:0036325		GO_Central	NCBITaxon:9606	IMP		PANTHER:PTHR14789	protein		PMID:27991863	20200316
+UniProtKB:O15520	Fibroblast growth factor 10		GO:0048010		Ensembl	NCBITaxon:9606	IEA	UniProtKB:O35565|ensembl:ENSMUSP00000022246	PANTHER:PTHR11486	protein		GO_REF:0000107	20221109

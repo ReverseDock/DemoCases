@@ -1,8 +1,8 @@
 # Name: ETQ
 # Created by ModelServer 0.9.9
 
-# model_server_result.job_id: IxLyrLRtwO2wH-9TACyU0g
-# model_server_result.datetime_utc: 2023-02-28 14:06:44
+# model_server_result.job_id: b64LTdUIEINhR37VrAkFSg
+# model_server_result.datetime_utc: 2023-08-16 13:10:42
 # model_server_result.server_version: 0.9.9
 # model_server_result.query_name: ligand
 # model_server_result.source_id: pdb-bcif
@@ -11,10 +11,10 @@
 # model_server_params.name: atom_site
 # model_server_params.value: {"label_asym_id":"E","auth_seq_id":1200}
 
-# model_server_stats.io_time_ms: 84
-# model_server_stats.parse_time_ms: 77
-# model_server_stats.create_model_time_ms: 18
-# model_server_stats.query_time_ms: 246
+# model_server_stats.io_time_ms: 53
+# model_server_stats.parse_time_ms: 85
+# model_server_stats.create_model_time_ms: 11
+# model_server_stats.query_time_ms: 200
 # model_server_stats.encode_time_ms: 0
 # model_server_stats.element_count: 23
 

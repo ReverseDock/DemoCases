@@ -1,8 +1,8 @@
 # Name: L8I
 # Created by ModelServer 0.9.9
 
-# model_server_result.job_id: BjNLy6skwMoZm-gZXbL9cw
-# model_server_result.datetime_utc: 2023-03-08 13:24:46
+# model_server_result.job_id: p98oBFeTpiD6KwL55zNx7g
+# model_server_result.datetime_utc: 2023-08-16 13:12:55
 # model_server_result.server_version: 0.9.9
 # model_server_result.query_name: ligand
 # model_server_result.source_id: pdb-bcif
@@ -11,10 +11,10 @@
 # model_server_params.name: atom_site
 # model_server_params.value: {"label_asym_id":"B","auth_seq_id":1}
 
-# model_server_stats.io_time_ms: 40
-# model_server_stats.parse_time_ms: 39
-# model_server_stats.create_model_time_ms: 3
-# model_server_stats.query_time_ms: 248
+# model_server_stats.io_time_ms: 66
+# model_server_stats.parse_time_ms: 64
+# model_server_stats.create_model_time_ms: 6
+# model_server_stats.query_time_ms: 246
 # model_server_stats.encode_time_ms: 0
 # model_server_stats.element_count: 29
 
